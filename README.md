@@ -36,7 +36,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Devon Live: [Not enough new homes are being built in Devon according to Government figures](https://www.devonlive.com/news/devon-news/not-enough-new-homes-being-1910207) *17 August 2018*
 * Harrogate Advertiser: [New report reveals size of Harrogate's housing problems](https://www.harrogateadvertiser.co.uk/news/new-report-reveals-size-of-harrogate-s-housing-problems-1-9307046) *17 August 2018*
 * Romford Recorder: [Havering 11th worst in UK for missing target for building new homes - but council contests new figures](http://www.romfordrecorder.co.uk/news/politics/havering-new-homes-eleventh-worst-1-5653735) *20 August 2018*
-
+* This story was also used by BBC Radio Cornwall, BBC Somerset, BBC Radio Devon, BBC Radio Lancashire, BBC Radio York, BBC Surrey, BBC Radio Lincolnshire and BBC Tees
 
 
 
