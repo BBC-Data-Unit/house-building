@@ -21,6 +21,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * York: The Press: [York's missed housing target figures ‘misleading’](http://www.yorkpress.co.uk/news/16420570.yorks-missed-housing-target-figures-misleading/) *16 August 2018*
 * Worcester News: [Worcester City Council just missing yearly home-building target](http://www.worcesternews.co.uk/news/16439357.worcester-city-council-just-missing-yearly-home-building-target/) *16 August 2018*
 * Ilford Recorder: [Redbridge second worst in UK for missing target for building new homes](http://www.ilfordrecorder.co.uk/news/politics/redbridge-new-home-building-second-worst-1-5653736) *16 August 2018*
+* Teeside Live: [Teesside councils allowing more homes to be built than they need to - are there too many?](https://www.gazettelive.co.uk/news/property/teesside-councils-building-more-homes-15037844) *16 August 2018*
 * Devon Live: [Not enough new homes are being built in Devon according to Government figures](https://www.devonlive.com/news/devon-news/not-enough-new-homes-being-1910207) *17 August 2018*
 * Harrogate Advertiser: [New report reveals size of Harrogate's housing problems](https://www.harrogateadvertiser.co.uk/news/new-report-reveals-size-of-harrogate-s-housing-problems-1-9307046) *17 August 2018*
 * Romford Recorder: [Havering 11th worst in UK for missing target for building new homes - but council contests new figures](http://www.romfordrecorder.co.uk/news/politics/havering-new-homes-eleventh-worst-1-5653735) *20 August 2018*
